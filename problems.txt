@@ -1,0 +1,60 @@
+1366 - 
+Sticks Game 
+2755 - 
+Output 9 
+1029 - 
+Fibonacci, How Many Calls? 
+2874 - 
+Binary Phrase 
+1379 - 
+Mean Median Problem 
+2355 - 
+Brazil and Germany 
+2345 - 
+Assigning Teams 
+1573 - 
+Chocolate Factory 
+3106 - 
+Coding Competition 
+2702 - 
+Hard Choice 
+1197 - 
+Back to High School Physics 
+1963 - 
+The Motion Picture 
+1987 - 
+Divisibility by 3 
+1930 - 
+Electrical Outlet 
+1467 - 
+Zero or One 
+1589 - 
+Bob Conduit 
+2748 - 
+Output 2 
+1104 - 
+Exchanging Cards 
+1103 - 
+Alarm Clock 
+1091 - 
+Division of Nlogonia 
+1087 - 
+Queen 
+1026 - 
+To Carry or not to Carry 
+1187 - 
+Top Area 
+1186 - 
+Below the Secundary Diagonal 
+1185 - 
+Above the Secundary Diagonal 
+1184 - 
+Below the Main Diagonal 
+1183 - 
+Above the Main Diagonal 
+1182 - 
+Column in Array 
+1180 - 
+Lowest Number and Position 
+1160 - 
+Population Increase 
